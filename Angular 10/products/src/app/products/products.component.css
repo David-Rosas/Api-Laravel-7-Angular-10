@@ -1,0 +1,14 @@
+.card-title{
+font-weight: 600;
+}
+.card-text{
+  color: #1475DA;
+}
+.price{
+  font-weight: 600;
+  color:orange;
+}
+
+.card-body{
+  line-height: 8px;
+}
